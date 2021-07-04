@@ -18,6 +18,7 @@ Uma vez que capgemini\src\capgeminiCalc\Calculadora for encontrado, basta abrir 
 <h3>:floppy_disk: <strong>prjInventarioDivulgaTudo</strong></h3>
 
 Este sistema em duas camadas foi desenvolvido em JAVA (Apache NetBeans IDE 12.3) e MySQL (MySQL Workbench 8.0). Demonstra conhecimento em CRUD e banco de dados.
+
 Faça o download do WampServer (Versão compatível com o seu sistema operacional), instale-o e inicialize-o, selecionando “Start All Services” (Port 3306).
 
 ![image](https://user-images.githubusercontent.com/84102140/124397206-fb32d980-dce4-11eb-917e-b81a32eb2304.png)
@@ -26,7 +27,7 @@ Faça o download do WampServer (Versão compatível com o seu sistema operaciona
 
 :arrow_down: [Download WampServer](https://sourceforge.net/projects/wampserver/files/)
 
-Faça o download do MySQL Workbench 8.0.25, instale-o e execute o arquivo dbinfo (prjInventarioDivulgaTudo\dumps\dbinfo)
+Em seguida, faça o download do MySQL Workbench 8.0.25, instale-o e execute o arquivo dbinfo (prjInventarioDivulgaTudo\dumps\dbinfo)
 
 ![image](https://user-images.githubusercontent.com/84102140/124397217-11409a00-dce5-11eb-8ba5-9d517c4d0a2b.png)
 
