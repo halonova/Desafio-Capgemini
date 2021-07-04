@@ -8,7 +8,7 @@ Recomenda-se que esta IDE seja o programa de execução da calculadora.
 
 :arrow_down: [Download Eclipse IDE](https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers)
 
-Também é necessário possuir o JRE Version 8 Update 291.
+Também é necessário possuir o JRE (Recomendado: Version 8 Update 291).
 
 :arrow_down: [Download JRE](https://www.java.com/en/download/)
 
