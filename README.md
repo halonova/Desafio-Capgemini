@@ -52,7 +52,7 @@ Confirma a conexão DAL e precede a tela principal do projeto.
 
 <strong>Tela de cadastro</strong>
 
-Digite um código (exemplos do número 1 ao 5 disponíveis no sistema) e clique em consultar. Todas as funcionalidades estão disponíveis e possuem confirmação de operação bem sucedida – Incluir, consultar, modificar, e excluir. 
+Digite um código (exemplos do número 1 ao 5 disponíveis no sistema) e clique em consultar. Todas as funcionalidades estão disponíveis e possuem confirmação de operação bem sucedida – Incluir, consultar, modificar e excluir. 
  
 ![image](https://user-images.githubusercontent.com/84102140/124397238-2b7a7800-dce5-11eb-827f-99b57cfbe716.png)
 
