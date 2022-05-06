@@ -49,18 +49,17 @@ Em seguida, execute o projeto, fazendo login com usuário Admin e senha admin.
 
 Confirma a conexão DAL e precede a tela principal do projeto.
 
-![image](https://user-images.githubusercontent.com/84102140/124397224-1aca0200-dce5-11eb-8fd5-2b72f33188e1.png)
+![WhatsApp Image 2022-05-06 at 11 28 45](https://user-images.githubusercontent.com/84102140/167153825-c5ceb8b2-32b2-4490-b89d-f186ce303595.jpeg)
 
 <strong>Tela de cadastro</strong>
 
 Digite um código (exemplos do número 1 ao 5 disponíveis no sistema) e clique em consultar. Todas as funcionalidades estão disponíveis e possuem confirmação de operação bem sucedida – Incluir, consultar, modificar e excluir. 
  
-![image](https://user-images.githubusercontent.com/84102140/124397238-2b7a7800-dce5-11eb-827f-99b57cfbe716.png)
-
-![image](https://user-images.githubusercontent.com/84102140/124397307-9035d280-dce5-11eb-806f-4c702763250e.png)
+![WhatsApp Image 2022-05-06 at 11 28 45](https://user-images.githubusercontent.com/84102140/167153737-8adc956d-afae-460c-9654-dfe7e9c0a1d6.jpeg)
 
 <strong>Tela de relatório</strong>
 
 Esta tela exibe em forma de tabela os itens cadastrados e também uma projeção dos valores solicitados a partir da calculadora. A função pesquisar é do tipo “enquanto for digitando” e busca pelo nome do cliente. Esta tela está incompleta.
 
-![image](https://user-images.githubusercontent.com/84102140/124397302-84e2a700-dce5-11eb-964b-3700b3261c48.png)
+![WhatsApp Image 2022-05-06 at 11 29 12](https://user-images.githubusercontent.com/84102140/167153873-1758eed8-c54f-4b10-87cc-edec5a978ca4.jpeg)
+
