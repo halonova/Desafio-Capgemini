@@ -1,9 +1,9 @@
-<h2><strong>Desafio Capgemini ProWay</strong></h2>
+<h2><strong>Calculadora de Anúncios</strong></h2>
 
 <h3>:floppy_disk: <strong>prjCalculadora</strong></h3>
 
 
-Esta calculadora de alcance de anúncios foi desenvolvida através dos critérios fictícios solicitados, na linguagem JAVA e a partir da IDE Eclipse Ver. Oxygen.3a Release (4.7.3a). 
+Esta calculadora de alcance de anúncios foi desenvolvida na linguagem java e a partir da IDE Eclipse Ver. Oxygen.3a Release (4.7.3a). 
 Recomenda-se que esta IDE seja o programa de execução da calculadora.
 
 :arrow_down: [Download Eclipse IDE](https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers)
@@ -12,12 +12,12 @@ Também é necessário possuir o JRE (Recomendado: Version 8 Update 291).
 
 :arrow_down: [Download JRE](https://www.java.com/en/download/)
 
-Uma vez que capgemini\src\capgeminiCalc\Calculadora for encontrado, basta abrir e executar (Run).
+Uma vez que capgemini\src\capgeminiCalc\Calculadora for encontrado, basta abrir e executar.
 
 
 <h3>:floppy_disk: <strong>prjInventarioDivulgaTudo</strong></h3>
 
-Este sistema em duas camadas foi desenvolvido em JAVA (Apache NetBeans IDE 12.3) e MySQL (MySQL Workbench 8.0). Demonstra conhecimento em CRUD e banco de dados.
+Este sistema em duas camadas foi desenvolvido em java (Apache NetBeans IDE 12.3) e MySQL (MySQL Workbench 8.0). 
 
 Faça o download do WampServer (Versão compatível com o seu sistema operacional), instale-o e inicialize-o, selecionando “Start All Services” (Port 3306).
 
@@ -41,7 +41,7 @@ Finalmente, faça o download e a instalação do Apache NetBeans IDE 12.3, em se
 
 :arrow_down: [Download Apache NetBeans IDE](https://netbeans.apache.org/download/nb123/nb123.html)
 
-Em seguida, execute (Run) o projeto, fazendo login com usuário Admin e senha admin.
+Em seguida, execute o projeto, fazendo login com usuário Admin e senha admin.
 
 <strong>Funcionalidades do programa</strong>
 
