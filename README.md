@@ -3,7 +3,7 @@
 <h3>:floppy_disk: <strong>prjCalculadora</strong></h3>
 
 
-Esta calculadora de alcance de anúncios foi desenvolvida na linguagem java e a partir da IDE Eclipse Ver. Oxygen.3a Release (4.7.3a). 
+Esta calculadora de alcance de anúncios foi desenvolvida em Java e a partir da IDE Eclipse Ver. Oxygen.3a Release (4.7.3a). 
 Recomenda-se que esta IDE seja o programa de execução da calculadora.
 
 :arrow_down: [Download Eclipse IDE](https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers)
@@ -17,7 +17,7 @@ Uma vez que capgemini\src\capgeminiCalc\Calculadora for encontrado, basta abrir 
 
 <h3>:floppy_disk: <strong>prjInventarioDivulgaTudo</strong></h3>
 
-Este sistema em duas camadas foi desenvolvido em java (Apache NetBeans IDE 12.3) e MySQL (MySQL Workbench 8.0). 
+Este sistema em duas camadas foi desenvolvido em Java (Apache NetBeans IDE 12.3) e MySQL (MySQL Workbench 8.0). 
 
 Faça o download do WampServer (Versão compatível com o seu sistema operacional), instale-o e inicialize-o, selecionando “Start All Services” (Port 3306).
 
