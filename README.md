@@ -55,11 +55,10 @@ Confirma a conexão DAL e precede a tela principal do projeto.
 
 Digite um código (exemplos do número 1 ao 5 disponíveis no sistema) e clique em consultar. Todas as funcionalidades estão disponíveis e possuem confirmação de operação bem sucedida – Incluir, consultar, modificar e excluir. 
  
-![WhatsApp Image 2022-05-06 at 11 28 45](https://user-images.githubusercontent.com/84102140/167153737-8adc956d-afae-460c-9654-dfe7e9c0a1d6.jpeg)
+![WhatsApp Image 2022-05-06 at 11 29 47](https://user-images.githubusercontent.com/84102140/167153977-776cec03-7e5f-4501-b532-96a7b5459815.jpeg)
 
 <strong>Tela de relatório</strong>
 
 Esta tela exibe em forma de tabela os itens cadastrados e também uma projeção dos valores solicitados a partir da calculadora. A função pesquisar é do tipo “enquanto for digitando” e busca pelo nome do cliente. Esta tela está incompleta.
 
-![WhatsApp Image 2022-05-06 at 11 29 12](https://user-images.githubusercontent.com/84102140/167153873-1758eed8-c54f-4b10-87cc-edec5a978ca4.jpeg)
-
+![WhatsApp Image 2022-05-06 at 11 29 12](https://user-images.githubusercontent.com/84102140/167154012-dfd0f5b8-1cbe-4db6-8a0b-c718e44f37d8.jpeg)
